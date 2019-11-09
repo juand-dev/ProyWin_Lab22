@@ -1,0 +1,11 @@
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\Laboratorio22\ProyWin_Lab22\ProyWin_Lab22\bin\Debug\ProyWin_Lab22.exe
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\Laboratorio22\ProyWin_Lab22\ProyWin_Lab22\bin\Debug\ProyWin_Lab22.pdb
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\Laboratorio22\ProyWin_Lab22\ProyWin_Lab22\obj\Debug\ProyWin_Lab22.frmPrincipal.resources
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\Laboratorio22\ProyWin_Lab22\ProyWin_Lab22\obj\Debug\ProyWin_Lab22.Properties.Resources.resources
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\Laboratorio22\ProyWin_Lab22\ProyWin_Lab22\obj\Debug\ProyWin_Tarea22.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\Laboratorio22\ProyWin_Lab22\ProyWin_Lab22\obj\Debug\ProyWin_Lab22.exe
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\Laboratorio22\ProyWin_Lab22\ProyWin_Lab22\obj\Debug\ProyWin_Lab22.pdb
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\Laboratorio22\ProyWin_Lab22\ProyWin_Lab22\obj\Debug\ProyWin_Lab22.frmMantenimientoAlumno.resources
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\Laboratorio22\ProyWin_Lab22\ProyWin_Lab22\obj\Debug\ProyWin_Lab22.frmDetalleMantenimientoAlumno.resources
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\Laboratorio22\ProyWin_Lab22\ProyWin_Lab22\obj\Debug\ProyWin_Tarea22.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\Visual Fundamentals\curso visual\Laboratorio22\ProyWin_Lab22\ProyWin_Lab22\obj\Debug\ProyWin_Tarea22.csproj.CoreCompileInputs.cache
